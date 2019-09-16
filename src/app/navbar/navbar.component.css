@@ -1,0 +1,32 @@
+.nav_container{
+  background: #009615;
+  border-color: #009615;
+}
+h1{
+  font-family: "Montserrat", sans-serif;
+}
+.navbar-header a{
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: 700;
+}
+.nav_margin{
+  margin: 10px;
+}
+.navbar{
+  min-height: 75px !important;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+  background-color: transparent !important;
+}
+.navbar-inverse .navbar-nav>li>a{
+  color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+  color: #bfbfbf;
+}
+.nav-left-text h1{
+  color: #FFFFFF;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+}
